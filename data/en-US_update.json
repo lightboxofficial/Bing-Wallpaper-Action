@@ -1,6 +1,23 @@
 {
     "images": [
         {
+            "startdate": "20261013",
+            "fullstartdate": "202610130700",
+            "enddate": "20261014",
+            "url": "/th?id=OHR.PlitviceAutumn_EN-US6255909048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+            "urlbase": "/th?id=OHR.PlitviceAutumn_EN-US6255909048",
+            "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+            "copyrightlink": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220261013_0700%22",
+            "title": "A symphony in blue and green",
+            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_PlitviceAutumn%22&FORM=HPQUIZ",
+            "wp": true,
+            "hsh": "7094c3af770dc83743e89e07376eaa13",
+            "drk": 1,
+            "top": 1,
+            "bot": 1,
+            "hs": []
+        },
+        {
             "startdate": "20261012",
             "fullstartdate": "202610120700",
             "enddate": "20261013",
@@ -114,23 +131,6 @@
             "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_DanxiaLandform%22&FORM=HPQUIZ",
             "wp": true,
             "hsh": "7fe6039592d824e51b4f8241ce78c7a8",
-            "drk": 1,
-            "top": 1,
-            "bot": 1,
-            "hs": []
-        },
-        {
-            "startdate": "20261005",
-            "fullstartdate": "202610050700",
-            "enddate": "20261006",
-            "url": "/th?id=OHR.AdelieTeacher_EN-US5343194378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
-            "urlbase": "/th?id=OHR.AdelieTeacher_EN-US5343194378",
-            "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
-            "copyrightlink": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22",
-            "title": "Taking the plunge, one lesson at a time",
-            "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_AdelieTeacher%22&FORM=HPQUIZ",
-            "wp": true,
-            "hsh": "deabd04ab5e44f605eb1696bfd9dc774",
             "drk": 1,
             "top": 1,
             "bot": 1,
